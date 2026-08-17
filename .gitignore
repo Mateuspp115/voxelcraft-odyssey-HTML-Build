@@ -1,0 +1,16 @@
+# Dependências e produtos de build locais
+node_modules/
+dist/
+build/
+.gradle/
+.idea/
+*.apk
+*.aab
+
+# Arquivos de sistema e diagnóstico
+.DS_Store
+Thumbs.db
+*.log
+
+# Capturas locais não revisadas
+screenshots/local/

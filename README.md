@@ -1,2 +1,31 @@
-# voxelcraft-odyssey-HTML-Build
-jogo em HTML inspirado no Minecraft em uma casca para Build Android 
+# Voxelcraft Odyssey — Arquivo de Builds HTML
+
+> Coleção versionada do **Voxelcraft Odyssey**, um jogo em HTML inspirado em experiências de blocos, acompanhada dos materiais de build Android/WebView, documentação técnica e histórico de evolução fornecidos.
+
+Este repositório foi organizado para preservar as builds como artefatos independentes: cada versão HTML mantém seu próprio `index.html`, cada casca mobile é rastreada separadamente e os documentos de manutenção continuam acessíveis sem misturar arquivos de leitura com o código do jogo.
+
+## Estrutura
+
+| Caminho | Conteúdo |
+|---|---|
+| [`versions/html/`](versions/README.md) | Quatorze builds HTML preservadas, da v1 à v14, incluindo variantes v6. |
+| [`mobile-shells/`](mobile-shells/README.md) | Cascas Android/WebView históricas para empacotamento mobile. |
+| [`docs/`](docs/README.md) | Changelogs, checkpoints, manuais, auditorias e documentação do motor de texturas. |
+| [`resources/`](resources/README.md) | Arquivos de referência mantidos como recebidos. |
+| [`screenshots/`](screenshots/README.md) | Local reservado para capturas revisadas por versão e plataforma. |
+
+## Início rápido
+
+1. Escolha uma versão em [`versions/html/`](versions/html/).
+2. Abra o respectivo `index.html` em um navegador moderno.
+3. Para uma referência técnica da build v14, consulte o [guia do motor de texturas](docs/reference/README_TEXTURE_ENGINE.md).
+
+As versões foram preservadas como snapshots históricos. Antes de modificar uma delas, crie uma nova versão ou branch, registre as mudanças e valide em desktop e mobile.
+
+## Histórico preservado
+
+O conjunto recebido contém v1, v2, v3, v4, v5, v6 Lite, v6 Offline CDN Embutido, v7, v8, v9, v11, v12, v13 Beta e v14. A ausência de v10 no arquivo de origem foi mantida de forma intencional, sem inventar um snapshot inexistente.
+
+## Contribuição e manutenção
+
+Cada contribuição deve indicar a build-base, descrever a mudança, informar como foi testada e anexar capturas revisadas quando houver alteração visual. Pacotes compactados são mantidos como referência e não devem ser executados sem inspeção.
