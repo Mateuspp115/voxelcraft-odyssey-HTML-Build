@@ -1,0 +1,105 @@
+{
+  "project": "VoxelCraft Odyssey HTML Build",
+  "snapshot_count": 14,
+  "latest": "v14",
+  "files": [
+    {
+      "snapshot": "v14",
+      "path": "versions/html/v14/index.html",
+      "size": 396558,
+      "sha256": "669660a88c63c05c80b70540f415091f379e84bf4fbe04f2e9926084a0ba43a6",
+      "commit": "749183cdded0f709c347a04bd1279b6a73a62751"
+    },
+    {
+      "snapshot": "v1",
+      "path": "versions/html/v1/index.html",
+      "size": 125035,
+      "sha256": "ff1ad8665a78b95fa7b410ddce1c281e26e9d77bab42712f9d1a403856c9d2d1",
+      "commit": "770c2cdf5d04c0a64a353002bf1ba1f8d26fb7e1"
+    },
+    {
+      "snapshot": "v11",
+      "path": "versions/html/v11/index.html",
+      "size": 287160,
+      "sha256": "cdbcfa3b540cd71e1447b021923ff49eb075b7d3cb8d94e0a78279befa329351",
+      "commit": "fd71d08e217ec16aada158a607af053f8d4fc688"
+    },
+    {
+      "snapshot": "v12",
+      "path": "versions/html/v12/index.html",
+      "size": 310218,
+      "sha256": "2c92e1e0c26818fe9dd819b32c8124e948e7100368282a0933c0ef92fb401fe5",
+      "commit": "c1785fd40e81080876f96bd1aff52a5556232b5d"
+    },
+    {
+      "snapshot": "v13-beta",
+      "path": "versions/html/v13-beta/index.html",
+      "size": 362048,
+      "sha256": "e220f9e372b081634b3dc8ce39d960c6a0ce7077864c37fc8f35d9af84d16cea",
+      "commit": "22cddb23d33c5f53e05f4c95e1f224e44be84f84"
+    },
+    {
+      "snapshot": "v2",
+      "path": "versions/html/v2/index.html",
+      "size": 131069,
+      "sha256": "ddde526161d2b8d29e2b95370652a86856049094bd343a050a642c76b5ca9053",
+      "commit": "e7f6ada2b6fe0edc5f3d8f40391857152c88ef1d"
+    },
+    {
+      "snapshot": "v3",
+      "path": "versions/html/v3/index.html",
+      "size": 159430,
+      "sha256": "8d5495c34e6ece990c2a0108cd2023ca4875f989207617a8e6c211e8c0fd3119",
+      "commit": "1486790f971229a73f027336ff7ea6b8b5049b2d"
+    },
+    {
+      "snapshot": "v4",
+      "path": "versions/html/v4/index.html",
+      "size": 214631,
+      "sha256": "a03e8af0422a77f821a9909759276e88736b4fd13bcecc53554779e00c53f8dc",
+      "commit": "2774bb5572dfdc2f3bdfb5625e51a6affb3fa031"
+    },
+    {
+      "snapshot": "v5",
+      "path": "versions/html/v5/index.html",
+      "size": 224446,
+      "sha256": "d65cf0e0ae863a275ba18e315f9ae8c3bc61c18c6f5e337fe80d391fb9ac1238",
+      "commit": "5180a1fc5a08f71c7355fd33596f3a5844d854c5"
+    },
+    {
+      "snapshot": "v6-lite",
+      "path": "versions/html/v6-lite/index.html",
+      "size": 244066,
+      "sha256": "11734c4d6caa41dd76a49e6f9a513edad1152af7fe589ced2557eb929027eb57",
+      "commit": "4497a502f9dd342f1377664452978280b9efa441"
+    },
+    {
+      "snapshot": "v6-offline-cdn-imbutido",
+      "path": "versions/html/v6-offline-cdn-imbutido/index.html",
+      "size": 1030269,
+      "sha256": "b7911f827f7b0c1eb177e9963cf4c30139edc9a56d7f54124dc485b78d94da7b",
+      "commit": "06a6c9e80b6aa6bcf604618dc6f2e6a5f19d49f3"
+    },
+    {
+      "snapshot": "v7",
+      "path": "versions/html/v7/index.html",
+      "size": 246005,
+      "sha256": "fb42fc4f1dfb8332a368e5cd8c0a7ac94402501d8c1eacb2da47876a4d9913d8",
+      "commit": "35b182845a916281e10073ebe9bb615d18c1c0c9"
+    },
+    {
+      "snapshot": "v8",
+      "path": "versions/html/v8/index.html",
+      "size": 266536,
+      "sha256": "7644daa6d08c597759dbdc77da74212ad2e501d0efc4cc2ef2f6ed07e6486c36",
+      "commit": "f11ceb0cfc98240e9ed83b3bea519c41675c5b78"
+    },
+    {
+      "snapshot": "v9",
+      "path": "versions/html/v9/index.html",
+      "size": 274187,
+      "sha256": "4ccd272f3c8a64ab6288d858b79f64eec056ccc31264c06cc10140e5b35868b9",
+      "commit": "27edce6d3853c66b5479e3eec389779f0b7c7cbe"
+    }
+  ]
+}

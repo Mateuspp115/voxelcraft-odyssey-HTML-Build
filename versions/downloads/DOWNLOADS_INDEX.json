@@ -1,0 +1,147 @@
+{
+  "count": 14,
+  "latest": "v14",
+  "source_only": true,
+  "downloads": [
+    {
+      "snapshot": "v14",
+      "latest": "true",
+      "commit": "749183cdded0f709c347a04bd1279b6a73a62751",
+      "archive": "voxelcraft-v14-source.zip",
+      "size": "108633",
+      "sha256": "b267eb2722d5c60e34bd8b98a768c728806aa6a49daebfa3962fc5ec272c544c",
+      "release_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/tag/voxelcraft-v14",
+      "asset_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/download/voxelcraft-v14/voxelcraft-v14-source.zip"
+    },
+    {
+      "snapshot": "v1",
+      "latest": "false",
+      "commit": "770c2cdf5d04c0a64a353002bf1ba1f8d26fb7e1",
+      "archive": "voxelcraft-v1-source.zip",
+      "size": "31412",
+      "sha256": "3644c5304e9802631a88d131925619d3654d73bbf4acffab19e48ab03c149fcd",
+      "release_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/tag/voxelcraft-v1",
+      "asset_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/download/voxelcraft-v1/voxelcraft-v1-source.zip"
+    },
+    {
+      "snapshot": "v11",
+      "latest": "false",
+      "commit": "fd71d08e217ec16aada158a607af053f8d4fc688",
+      "archive": "voxelcraft-v11-source.zip",
+      "size": "76699",
+      "sha256": "55ea99b81f58bad1e4fe199cbf808b4d63febc95f21723f0e60dfb08acb55184",
+      "release_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/tag/voxelcraft-v11",
+      "asset_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/download/voxelcraft-v11/voxelcraft-v11-source.zip"
+    },
+    {
+      "snapshot": "v12",
+      "latest": "false",
+      "commit": "c1785fd40e81080876f96bd1aff52a5556232b5d",
+      "archive": "voxelcraft-v12-source.zip",
+      "size": "84126",
+      "sha256": "f1e5d7461339f3225066dffd23b27a95e591ffbc86c09db518611d8f2987ca39",
+      "release_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/tag/voxelcraft-v12",
+      "asset_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/download/voxelcraft-v12/voxelcraft-v12-source.zip"
+    },
+    {
+      "snapshot": "v13-beta",
+      "latest": "false",
+      "commit": "22cddb23d33c5f53e05f4c95e1f224e44be84f84",
+      "archive": "voxelcraft-v13-beta-source.zip",
+      "size": "98369",
+      "sha256": "b53c306cf917c04b21aa6708cbc2b54b63e7db006ce7fb422f987b5651fffb0c",
+      "release_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/tag/voxelcraft-v13-beta",
+      "asset_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/download/voxelcraft-v13-beta/voxelcraft-v13-beta-source.zip"
+    },
+    {
+      "snapshot": "v2",
+      "latest": "false",
+      "commit": "e7f6ada2b6fe0edc5f3d8f40391857152c88ef1d",
+      "archive": "voxelcraft-v2-source.zip",
+      "size": "33040",
+      "sha256": "80ae5d380c29fb6407dfb896e69ad7a9af93de3ad09edb12ff33621c53f661a3",
+      "release_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/tag/voxelcraft-v2",
+      "asset_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/download/voxelcraft-v2/voxelcraft-v2-source.zip"
+    },
+    {
+      "snapshot": "v3",
+      "latest": "false",
+      "commit": "1486790f971229a73f027336ff7ea6b8b5049b2d",
+      "archive": "voxelcraft-v3-source.zip",
+      "size": "40485",
+      "sha256": "9b8ba636ece9a1cd550ed0b448bcad6936fe72d8e1c76c0ec58c3cb5fd685526",
+      "release_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/tag/voxelcraft-v3",
+      "asset_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/download/voxelcraft-v3/voxelcraft-v3-source.zip"
+    },
+    {
+      "snapshot": "v4",
+      "latest": "false",
+      "commit": "2774bb5572dfdc2f3bdfb5625e51a6affb3fa031",
+      "archive": "voxelcraft-v4-source.zip",
+      "size": "55576",
+      "sha256": "723545ca4071f86ecacdd51d57faed813331fdfdaae01057d378a05f6fdce09d",
+      "release_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/tag/voxelcraft-v4",
+      "asset_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/download/voxelcraft-v4/voxelcraft-v4-source.zip"
+    },
+    {
+      "snapshot": "v5",
+      "latest": "false",
+      "commit": "5180a1fc5a08f71c7355fd33596f3a5844d854c5",
+      "archive": "voxelcraft-v5-source.zip",
+      "size": "57718",
+      "sha256": "8d8b3b2ff0d28c95a5067c7d7b5a4d064041c2b1f9b25ea2ef4f14eb7f4230b4",
+      "release_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/tag/voxelcraft-v5",
+      "asset_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/download/voxelcraft-v5/voxelcraft-v5-source.zip"
+    },
+    {
+      "snapshot": "v6-lite",
+      "latest": "false",
+      "commit": "4497a502f9dd342f1377664452978280b9efa441",
+      "archive": "voxelcraft-v6-lite-source.zip",
+      "size": "64292",
+      "sha256": "d72921a5ba9181311f216f798790e4b2bb912dc616410310076986b80eafb132",
+      "release_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/tag/voxelcraft-v6-lite",
+      "asset_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/download/voxelcraft-v6-lite/voxelcraft-v6-lite-source.zip"
+    },
+    {
+      "snapshot": "v6-offline-cdn-imbutido",
+      "latest": "false",
+      "commit": "06a6c9e80b6aa6bcf604618dc6f2e6a5f19d49f3",
+      "archive": "voxelcraft-v6-offline-cdn-imbutido-source.zip",
+      "size": "300183",
+      "sha256": "35754cbb58d4e312808b4fb7f71b6ce663b43221cb55b861b294e9e8407d8eb1",
+      "release_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/tag/voxelcraft-v6-offline-cdn-imbutido",
+      "asset_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/download/voxelcraft-v6-offline-cdn-imbutido/voxelcraft-v6-offline-cdn-imbutido-source.zip"
+    },
+    {
+      "snapshot": "v7",
+      "latest": "false",
+      "commit": "35b182845a916281e10073ebe9bb615d18c1c0c9",
+      "archive": "voxelcraft-v7-source.zip",
+      "size": "65054",
+      "sha256": "72d48dc03353e56a8949edcd6ddfe17e82fa92372ad8012b82535a02b3f321b0",
+      "release_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/tag/voxelcraft-v7",
+      "asset_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/download/voxelcraft-v7/voxelcraft-v7-source.zip"
+    },
+    {
+      "snapshot": "v8",
+      "latest": "false",
+      "commit": "f11ceb0cfc98240e9ed83b3bea519c41675c5b78",
+      "archive": "voxelcraft-v8-source.zip",
+      "size": "70218",
+      "sha256": "d72f4b1a6990f9e3bad6ce4f73aeafd9e12b8704e1e38d8dc79791fc80f8d6a7",
+      "release_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/tag/voxelcraft-v8",
+      "asset_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/download/voxelcraft-v8/voxelcraft-v8-source.zip"
+    },
+    {
+      "snapshot": "v9",
+      "latest": "false",
+      "commit": "27edce6d3853c66b5479e3eec389779f0b7c7cbe",
+      "archive": "voxelcraft-v9-source.zip",
+      "size": "73035",
+      "sha256": "6b45bfe3e4db8e7607c793c0aac05ed599c3711c25fe85174af379a170b9dc5e",
+      "release_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/tag/voxelcraft-v9",
+      "asset_url": "https://github.com/Mateuspp115/voxelcraft-odyssey-HTML-Build/releases/download/voxelcraft-v9/voxelcraft-v9-source.zip"
+    }
+  ]
+}

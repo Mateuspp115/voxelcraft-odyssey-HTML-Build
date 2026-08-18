@@ -9,10 +9,16 @@ Este repositório foi organizado para preservar as builds como artefatos indepen
 | Caminho | Conteúdo |
 |---|---|
 | [`versions/html/`](versions/README.md) | Quatorze builds HTML preservadas, da v1 à v14, incluindo variantes v6. |
+| [`versions/downloads/`](versions/downloads/README.md) | ZIP source-only e release individual para cada build; v14 aparece primeiro. |
+| [`versions/manifests/`](versions/README.md) | Manifesto arquivo por arquivo de cada snapshot. |
 | [`mobile-shells/`](mobile-shells/README.md) | Cascas Android/WebView históricas para empacotamento mobile. |
 | [`docs/`](docs/README.md) | Changelogs, checkpoints, manuais, auditorias e documentação do motor de texturas. |
 | [`resources/`](resources/README.md) | Arquivos de referência mantidos como recebidos. |
 | [`screenshots/`](screenshots/README.md) | Local reservado para capturas revisadas por versão e plataforma. |
+
+## Downloads por versão
+
+A build **v14** é a referência mais recente e aparece primeiro no [índice de downloads](versions/downloads/README.md). Cada versão possui um ZIP source-only independente, seu commit histórico e uma release GitHub. As cascas mobile são mantidas separadamente e não são confundidas com as builds HTML.
 
 ## Início rápido
 
@@ -25,6 +31,10 @@ As versões foram preservadas como snapshots históricos. Antes de modificar uma
 ## Histórico preservado
 
 O conjunto recebido contém v1, v2, v3, v4, v5, v6 Lite, v6 Offline CDN Embutido, v7, v8, v9, v11, v12, v13 Beta e v14. A ausência de v10 no arquivo de origem foi mantida de forma intencional, sem inventar um snapshot inexistente.
+
+## Auditoria e cobertura
+
+O arquivo [`versions/manifest.json`](versions/manifest.json) registra hashes, tamanhos e origem de cada arquivo das 14 builds HTML. O [`versions/file-history.csv`](versions/file-history.csv) fornece a mesma informação em formato tabular. O diretório `docs/reference/` reúne a documentação de leitura, enquanto `screenshots/` permanece reservado para capturas futuras. Nenhuma versão v10 foi inventada, porque ela não estava presente no material recebido.
 
 ## Contribuição e manutenção
 

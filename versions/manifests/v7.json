@@ -1,0 +1,13 @@
+{
+  "snapshot": "v7",
+  "latest": false,
+  "commit": "35b182845a916281e10073ebe9bb615d18c1c0c9",
+  "file_count": 1,
+  "files": [
+    {
+      "path": "index.html",
+      "size": 246005,
+      "sha256": "fb42fc4f1dfb8332a368e5cd8c0a7ac94402501d8c1eacb2da47876a4d9913d8"
+    }
+  ]
+}

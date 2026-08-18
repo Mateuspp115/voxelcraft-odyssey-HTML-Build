@@ -1,0 +1,13 @@
+{
+  "snapshot": "v6-offline-cdn-imbutido",
+  "latest": false,
+  "commit": "06a6c9e80b6aa6bcf604618dc6f2e6a5f19d49f3",
+  "file_count": 1,
+  "files": [
+    {
+      "path": "index.html",
+      "size": 1030269,
+      "sha256": "b7911f827f7b0c1eb177e9963cf4c30139edc9a56d7f54124dc485b78d94da7b"
+    }
+  ]
+}
